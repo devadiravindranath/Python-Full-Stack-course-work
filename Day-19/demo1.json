@@ -1,0 +1,22 @@
+[
+    {
+        "title": "py",
+        "author": "abc",
+        "price": 123
+    },
+    {
+        "title": "java",
+        "author": "abvb",
+        "price": 1230
+    },
+    {
+        "title": "sd",
+        "author": "adg",
+        "price": 163
+    },
+    {
+        "title": "ds",
+        "author": "fggh",
+        "price": 1256
+    }
+]
