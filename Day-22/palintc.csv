@@ -1,0 +1,7 @@
+input, output
+
+121,is palindrom
+4224,is palindrom
+13331,is palindrom 
+67876,is palindrom 
+1234,is not a palindrom
